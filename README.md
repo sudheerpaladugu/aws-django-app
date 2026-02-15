@@ -1,1 +1,0 @@
-# aws-django-app
